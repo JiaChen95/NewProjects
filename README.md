@@ -1,3 +1,3 @@
 # NewProjects
 
-Contains all my significant projects in Stony Brook University.
+Contains some of my significant projects in Stony Brook University.
